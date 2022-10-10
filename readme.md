@@ -10,7 +10,7 @@
 <h2>Sobre o projeto</h2>
 
 <p>
-    Este projeto tem um Layout inspirado um pouco no Github, ele foi feito com <strong>CSS Grid</strong> e <strong>Display Flex</strong>.
+    Este projeto tem um Layout inspirado um pouco no Github, ele foi feito com <strong>CSS Grid</strong> e <strong>Flexbox</strong>.
 </p>
 
 <img 
